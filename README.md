@@ -1,6 +1,8 @@
 # APBG Self-Paced Enablement
 A repository for self-guided enablement on APBG, Pivotal and PCF
 
+[Partner Portal](https://partners.pivotal.io/)
+
 
 Subscribe to [Pivotal Newsletter](https://pivotal.io/newsletter-subscription/)
 
