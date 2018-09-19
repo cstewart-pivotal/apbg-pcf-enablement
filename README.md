@@ -2,9 +2,13 @@
 A repository for self-guided enablement on APBG, Pivotal and PCF
 
 [Partner Portal](https://partners.pivotal.io/)
+
 Subscribe to [Pivotal Newsletter](https://pivotal.io/newsletter-subscription/)
+
 _Review APBG Microsite at ...._
+
 Watch APBG Webinar Series on [myLearning](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=activitySupDetails.sessionDetails&activityID=1521458&source=LMS&refresh=349)
+
 Check out the [APBG Blog](https://blog.apbg.io/) (password: alwaysbekind)
 
 
