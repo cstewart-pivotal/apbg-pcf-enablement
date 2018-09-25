@@ -9,6 +9,8 @@ General topics around who is Pivotal, the products we offer and customer success
 
 Subscribe to [Pivotal Newsletter](https://pivotal.io/newsletter-subscription/)
 
+Subscribe to [Pivotal YouTube Channel](https://www.youtube.com/channel/UCzd8R3vkpllD4CJn_5g5sKg?mkt_tok=eyJpIjoiTXpJeE1qQmpNR1ExTlRBeSIsInQiOiJpT1J1dGUwalNMcVFlRU9GUmlxdWhcL1Fia1dwOXZxWFU5VXdFOVNiaU5LY2dOYU5wRmF5NnBETGVua2wyS01RTVFyV1U4MWtvWXFjSnBEZWhDXC8rZGtkeVc1K1dOcDJqbVFScmhxbFJUOWREb3lsOGxKMFNVeHJRTU5FSVNvZTdvIn0%3D)
+
 ## APBG
 Learn about the Accenture Pivotal Business Group, our mission and the joint offerings we bring to market.
 
