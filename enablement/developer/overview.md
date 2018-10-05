@@ -2,4 +2,4 @@
 ### Self-Paced Enablement
 ### Workshops
 ### Instructor-led training
-### Product
+### Topic
