@@ -12,7 +12,7 @@
 
 ### Workshops
 These light-weight workshops are half to full day workshops that are ideally delivered in-person but could be delivered remotely if need be.
-[Available workshops and agendas](/workshops/overview.md)
+[Available workshops and agendas](workshops/overview.md)
 
 ### Instructor-led Training
 Pivotal offers a number of instructor-led course covering Spring, PCF and Application Transformation practices via the Pivotal Acceleration Lab (PAL).
@@ -21,4 +21,4 @@ Pivotal offers a number of instructor-led course covering Spring, PCF and Applic
 Curated content is available for the following topics:
 - [Spring]
 - [PCF]
-- [Cloud Native Development](/topic/cn_development/overview.md)
+- [Cloud Native Development](topic/cn_development/overview.md)
