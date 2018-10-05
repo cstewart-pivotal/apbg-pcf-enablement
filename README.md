@@ -4,9 +4,9 @@ This repository is intended to serve as self-guided enablement on APBG, Pivotal 
 
 ## Where to start
 1. Review [APBG Overview & Blog](/apbg/overview.md)
-2. Sign up for partner portal and view content available there
-3. Sign up for Pivotal newsletter and other correspondences found here
-4. For enablement, there are materials for sales, presales and developer. Please review the Enablement section for curated content and learning paths.
+2. Review [Pivotal Overview](/pivotal/overview.md) and sign up for [Pivotal Partner Portal](https://partners.pivotal.io/) and view content available there
+3. _Sign up for Pivotal newsletter and other correspondences found here_
+4. For enablement, there are materials for sales, presales and developers. Please review the [Enablement](/enablement/overview.md) section for curated content and learning paths.
 
 
 
