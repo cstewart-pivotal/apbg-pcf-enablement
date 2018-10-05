@@ -1,9 +1,16 @@
 # APBG Self-Paced Enablement
 ## Description
-This repository is intended to serve as self-guided enablement on APBG, Pivotal and PCF. It provides both presales and technical material and resources. 
+This repository is intended to serve as self-guided enablement on APBG, Pivotal and Pivotal products and technologies including PCF and Spring. It provides both presales and technical material and resources.
+
+## Where to start
+1. Review APBG Overview & Blog
+2. Sign up for partner portal and view content available there
+3. Sign up for Pivotal newsletter and other correspondences found here
+4. For enablement, there are materials for sales, presales and developer. Please review the Enablement section for curated content and learning paths. 
+
 
 ## Pivotal Enablement
-General topics around who is Pivotal, the products we offer and customer success stories. 
+General topics around who is Pivotal, the products we offer and customer success stories.
 
 [Partner Portal](https://partners.pivotal.io/)
 
@@ -77,20 +84,20 @@ The Pivotal YouTube channel is full of a mix of technical and non-technical cont
 Pivotal hosts 3 podcasts with varying cadences. You can download any of them from https://content.pivotal.io/podcasts, but they are of course also available in your podcast app of choice. Included here are the iTunes links.
 
 
-- Pivotal Insights: https://itunes.apple.com/us/podcast/pivotal-insights/id1135990005?mt=2 
+- Pivotal Insights: https://itunes.apple.com/us/podcast/pivotal-insights/id1135990005?mt=2
 
 Jeff Kelly and Dormain Drewitz talk about the transformative power that cloud-native platforms, modern application development, and analytics have to unlock business value. Guests include end-users, partners, and industry watchers.
 
 
 
-- Pivotal Conversations: https://itunes.apple.com/us/podcast/pivotal-conversations/id1123116274?mt=2 
+- Pivotal Conversations: https://itunes.apple.com/us/podcast/pivotal-conversations/id1123116274?mt=2
 
 Richard Seroter and Michael Coté talk about recent news in the cloud native world and discuss topics around organizations transforming to cloud.
 
 
-- That Moment: 
+- That Moment:
 
-https://itunes.apple.com/us/podcast/that-moment/id1257838356?mt=2 
+https://itunes.apple.com/us/podcast/that-moment/id1257838356?mt=2
 
 
 Michael Copeland (Season 1) and Doree Shafrir (Season 2) interview business leaders and entrepreneurs sharing the "pivots" that changed everything: moments that opened doors for discovery and growth, but also brought the possibility of failure. That Moment is produced by Pivotal, who believes when change is the only constant, people and businesses must be Built to Adapt.
@@ -106,4 +113,3 @@ The Pivotal Partner Portal is a "one stop shop" for all the content that your te
 
 
 Additionally, the Partner Portal is the place to register joint opportunities with the Pivotal team.
-
