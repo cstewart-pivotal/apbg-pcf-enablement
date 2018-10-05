@@ -1,4 +1,4 @@
 ## Enablement
 ### Sales
 ### Presales
-### [Developer](enablement/developer/overview.md)
+### [Developer](developer/overview.md)
