@@ -3,7 +3,7 @@
 This repository is intended to serve as self-guided enablement on APBG, Pivotal and Pivotal products and technologies including PCF and Spring. It provides both presales and technical material and resources.
 
 ## Where to start
-1. Review APBG Overview & Blog
+1. Review [APBG Overview & Blog](/apbg/overview.md)
 2. Sign up for partner portal and view content available there
 3. Sign up for Pivotal newsletter and other correspondences found here
 4. For enablement, there are materials for sales, presales and developer. Please review the Enablement section for curated content and learning paths.
