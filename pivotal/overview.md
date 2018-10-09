@@ -2,12 +2,12 @@
 General topics around who is Pivotal, the products we offer and customer success stories.
 
 - [Pivotal Company Overview](https://youtu.be/1sLCxd6CnlA) (15:00)
-- 
+-
 ### Customer Success Stories
 ...
 
 ---
-Sign up for the latest Pivotal Product News and Customer Stories
+#### Sign up for the latest Pivotal Product News and Customer Stories
 
 1. Subscribe to the [Pivotal Newsletter](https://pivotal.io/newsletter-subscription)
 
