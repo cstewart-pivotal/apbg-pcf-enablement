@@ -17,6 +17,6 @@ Both of these services utilize agile methodologies to continuously deliver resul
 
 
 ## Where to start
-1. Just get me to the tech! --> [Technical Enablement Tracks](/enablement/overview.md): Curated content for level 101, 201 and 301.
-2. I know know Accenture, I know Pivotal, but tell me more about this Business Group and how we're partnering differently --> [APBG Resources](/apbg/overview.md): Check out the APBG blog, team, charter, and more!
-2. Want to learn more about Pivotal? --> [Pivotal Resources](/pivotal/overview.md): Stay up to date on the latest news from Pivotal around PCF, Spring, and more.
+1. Just get me to the tech! :arrow_right: [Technical Enablement Tracks](/enablement/overview.md): Curated content for level 101, 201 and 301.
+2. I know Accenture, I know Pivotal, but tell me more about this Business Group and how we're partnering differently :arrow_right: [APBG Resources](/apbg/overview.md): Check out the APBG blog, team, charter, and more!
+2. Want to learn more about Pivotal? :arrow_right: [Pivotal Resources](/pivotal/overview.md): Stay up to date on the latest news from Pivotal around PCF, Spring, and more.
