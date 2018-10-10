@@ -20,4 +20,4 @@ These light-weight workshops are half to full day workshops that are ideally del
 [Available workshops and agendas](workshops/overview.md)
 
 ### Pivotal Instructor-led Trainings
-Pivotal offers a number of instructor-led course covering Spring, PCF and Application Transformation practices like PAL. In-person and Live Online (remote) options are available. [Available Pivotal Instructor-led Trainings](/instructor_led/overview.md)
+Pivotal offers a number of instructor-led course covering Spring, PCF and Application Transformation practices like PAL. In-person and Live Online (remote) options are available. [Available Pivotal Instructor-led Trainings](instructor_led/overview.md)
