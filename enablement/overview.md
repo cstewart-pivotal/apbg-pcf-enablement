@@ -9,16 +9,16 @@ A good place to start is to watch the APBG Webinar Series which ran in ACN FY18 
 
 The topics covered:
 - Cloud-Native Platform: Pivotal Cloud Foundry Platform
-    PCF 2.0 Overview
-    PKS Overview and PFS Preview
+    - PCF 2.0 Overview
+    - PKS Overview and PFS Preview
 
 - Cloud-Native Application Development: PCF and Spring Frameworks
-    Cloud Native Java
-    Cloud Native .NET
+    - Cloud Native Java
+    - Cloud Native .NET
 
 - Cloud-Native Operations: PCF Operations and Enabling DevOps
-    BOSH Overview
-    Platform and Application DevOps & CI/CD
+    - BOSH Overview
+    - Platform and Application DevOps & CI/CD
 
 The recordings of these sessions are available in [myLearning](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=activitySupDetails.sessionDetails&activityID=1521458&source=LMS&refresh=349)
 
