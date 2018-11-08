@@ -9,8 +9,11 @@ These light-weight workshops are ***product-focused*** and are designed to be ru
 ---
 
 ### BOSH Workshop
-BOSH is the toolchain at the heart of Cloud Foundry that is largely responsible for giving  operational excellence to Cloud Foundry users. BOSH is the automation that allows Cloud Foundry to be multi-cloud, be able to do zero-downtime deployments and allows workloads to benefit from 4 levels of High Availability. This workshop will include presentations reviewing BOSH concepts as well as hands-on labs. This workshop is ideally geared towards PCF operators or advanced PCF users wanting to learn more about what's happening under the hood.
-[Agenda](bosh/overview.md) 
+BOSH is the toolchain at the heart of Cloud Foundry that is largely responsible for giving  operational excellence to Cloud Foundry users. BOSH is the automation that allows Cloud Foundry to be multi-cloud, to do zero-downtime deployments and allows workloads to benefit from 4 levels of High Availability.
+
+This workshop will include presentations reviewing BOSH concepts as well as hands-on labs. This workshop is ideally geared towards PCF operators or advanced PCF users wanting to learn more about what's happening under the hood.
+
+[Agenda](bosh/overview.md)
 
 ### PCF Developer Workshop
 
