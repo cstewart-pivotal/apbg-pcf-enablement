@@ -1,8 +1,10 @@
 ## Cloud-Native Java Workshop
 
-#### Cloud Native Java Workshop – 1 day
-#### Target audience: java development experience, familiarity with [Spring](spring.io) a plus
-#### Assumptions: Java 1.8 or 1.9 installed on developer's machine, [CloudFoundry CLI](https://github.com/cloudfoundry/cli/releases) installed
+Duration: 1 day
+
+Target audience: java development experience, familiarity with [Spring](spring.io) a plus
+
+Assumptions: Java 1.8 or 1.9 installed on developer's machine, [CloudFoundry CLI](https://github.com/cloudfoundry/cli/releases) installed
 
 ### Introduction to Cloud Native Design and Microservices
 
