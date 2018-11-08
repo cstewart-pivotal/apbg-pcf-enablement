@@ -1,8 +1,8 @@
 ## BOSH Workshop
 
-BOSH – 1 day
-Target audience: Operators
-Prerequisites: familiarity with command line e.g. Linux
+#### BOSH – 1 day
+#### Target audience: Operators
+#### Prerequisites: familiarity with command line e.g. Linux
 
 ### BOSH - The Basics
 - Stemcells
