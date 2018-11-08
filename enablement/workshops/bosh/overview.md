@@ -1,11 +1,10 @@
 ## BOSH Workshop
 
-
 BOSH – 1 day
 Target audience: Operators
+Prerequisites: familiarity with command line e.g. Linux
 
-- Prerequisites: familiarity with command line e.g. Linux
-- BOSH - The Basics
+### BOSH - The Basics
 - Stemcells
 - Examining a BOSH Stemcell
 - Uploading a BOSH Stemcell
@@ -17,12 +16,13 @@ Target audience: Operators
 - Manifests
 - Deploying a BOSH Release
 
-- BOSH - Operating Cloud at Scale
+### BOSH - Operating Cloud at Scale
 - Accessing a BOSH Managed Instance
 - BOSH Instance Internals
 - Resize - Deployed and Running Software
 - Real Life - Deploy Zookeeper
 - Upgrade - Deployed and Running Software
 - BOSH Errands
-- BOSH Addons BOSH - Building Software Systems Ready for the Cloud
+
+### BOSH Addons BOSH - Building Software Systems Ready for the Cloud
 - Authoring a BOSH Release

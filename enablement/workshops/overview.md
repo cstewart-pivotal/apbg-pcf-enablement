@@ -13,12 +13,26 @@ BOSH is the toolchain at the heart of Cloud Foundry that is largely responsible 
 
 This workshop will include presentations reviewing BOSH concepts as well as hands-on labs. This workshop is ideally geared towards PCF operators or advanced PCF users wanting to learn more about what's happening under the hood.
 
-[Agenda](bosh/overview.md)
+[BOSH Workshop Topics](bosh/overview.md)
 
 ### PCF Developer Workshop
+TODO
 
 ### Cloud-Native Java Workshop
+This workshop is designed for Java developers to get hands-on experience working with the [Spring](spring.io) framework and its various projects including Spring Boot and Spring Cloud.
+
+This workshop has minimal presentations and is focused around hands-on labs to give developers a deep dive into building modern Java applications that are built to run in the cloud.
+
+[Cloud-Native Java Workshop Topics](cn_java/overview.md)
 
 ### PKS Workshop
+This workshop is intended to give developers a hands-on experience working with PKS. We'll cover an overview of Docker and Kubernetes, the popularity of containers as a way of packaging up applications and the rise of container platforms like Kubernetes. We'll understand the value added to PKS vs open-source Kubernetes and we'll discuss the differences between PAS and PKS, and how to correctly identify which workloads should run on which abstraction layer.
+
+Concepts will be presented and hands-on labs will give participants a hands on experience with using Docker, PKS and deploying apps to both runtimes.
+
+[PKS Workshop Topics](pks/overview.md)
 
 ### Concourse Workshop
+Concourse is an automation powerhouse that can be leveraged to continuously deliver applications to PCF or PCF itself. This workshop will give developers hands-on experience creating automation pipelines for both applications and platform.
+
+[Concourse Workshop Topics](concourse/overview.md)
