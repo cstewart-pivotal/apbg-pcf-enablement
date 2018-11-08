@@ -1,5 +1,5 @@
 ## Workshops
-These light-weight workshops are ***product-focused*** and are designed to be run in-person. Agendas are flexible and can be combined to allow the workshops to be varying durations ranging from half-day to multi-day. Below are outlined agendas but can be customized to include specific topics. If you are interested in running a workshop, please contact [Cameron Stewart](mailto:cstewart@pivotal.io) for details.
+These light-weight workshops are ***product-focused*** and are designed to be run in-person. Agendas are flexible and can be combined to allow the workshops to be varying durations ranging from half-day to multi-day. Below are outlined agendas that can be customized to include specific topics. If you are interested in running a workshop, please contact [Cameron Stewart](mailto:cstewart@pivotal.io) for details.
 
 - [BOSH Workshop](bosh/overview.md)
 - [PCF Developer Workshop](pcf_dev/overview.md)

@@ -5,6 +5,7 @@ Duration: 1 Day
 Target Audience: Developers
 
 Prerequisites: [Getting Started With Kubernetes](https://www.pluralsight.com/courses/getting-started-kubernetes)
+---
 
 ### Getting Started With Kubernetes
 - Introduction to K8s & PKS

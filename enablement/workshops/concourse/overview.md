@@ -5,6 +5,7 @@ Duration: 1/2 day
 Target audience: Developers and/or platform operators
 
 Prerequisites: familiarity with command line e.g. Linux
+---
 
 ### Introduction to Concourse
 - Concourse: The Continuous Thing Doer
