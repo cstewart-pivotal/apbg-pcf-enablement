@@ -39,7 +39,7 @@ _You will also learn the fundamentals of Pivotal Cloud Foundry, CI/CD, Applicati
 
 This course is offered for both Java and .NET Developers.
 
-[Training Brief](resources/Cloud-Native-Developer-Java.pdf)
+[Training Brief](../../resources/Cloud-Native-Developer-Java.pdf)
 
 #### PAL CNA Course
 The PAL CNA course focuses on **building new and migrating existing applications** to PCF.
@@ -50,4 +50,4 @@ _Learn the fundamentals of Pivotal Cloud Foundry, CI/CD, Application Architectur
 
 This course is only available for Java developers at the moment.
 
-[Training Brief](resources/Cloud-Native-Architect-Java.pdf)
+[Training Brief](../../resources/Cloud-Native-Architect-Java.pdf)

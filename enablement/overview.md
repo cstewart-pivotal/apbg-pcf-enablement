@@ -22,7 +22,7 @@ The topics covered:
 
 The recordings of these sessions are available in [myLearning](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=activitySupDetails.sessionDetails&activityID=1521458&source=LMS&refresh=349)
 
-### Curated, self-paced content for Cloud-Native Developers.
+### Curated, self-paced content for Cloud-Native Developers
   - [101](developer/101.md)
   - [201](developer/201.md)
   - [301](developer/301.md)
