@@ -7,20 +7,31 @@
 ### APBG Webinar Series
 A good place to start is to watch the APBG Webinar Series which ran in ACN FY18 Q4 as a 6-part webinar series focusing on topics to bring greater awareness and familiarity to the Cloud-Native Platform (PCF 2.0) and Cloud-Native Application Development technologies and solutions.
 
-### Curated, self-paced content for Cloud-Native Developers.
-  - 101
-  - 201
-  - 301
+The topics covered:
+- Cloud-Native Platform: Pivotal Cloud Foundry Platform
+    PCF 2.0 Overview
+    PKS Overview and PFS Preview
 
-<!-- ### _Self-paced enablement_
-  - APBG Webinar Series
-  - Pluralsight
-  - Pivotal Academy -->
+- Cloud-Native Application Development: PCF and Spring Frameworks
+    Cloud Native Java
+    Cloud Native .NET
+
+- Cloud-Native Operations: PCF Operations and Enabling DevOps
+    BOSH Overview
+    Platform and Application DevOps & CI/CD
+
+The recordings of these sessions are available in [myLearning](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=activitySupDetails.sessionDetails&activityID=1521458&source=LMS&refresh=349)
+
+### Curated, self-paced content for Cloud-Native Developers.
+  - [101](developer/101.md)
+  - [201](developer/201.md)
+  - [301](developer/301.md)
+
 
 ### Workshops
 These light-weight workshops are half to full day workshops that are ideally delivered in-person but could be delivered remotely if need be.
 
-[Available workshops and agendas](workshops/overview.md)
+[Available Workshops and Agendas](workshops/overview.md)
 
 ### Pivotal Instructor-led Trainings
 Pivotal offers a number of instructor-led courses covering Spring, PCF and BOSH. In addition, there is the Platform Acceleration Lab (PAL) that is an intensive 1 or 3 week program teaching the methodologies and best-practices for cloud-native software development and application transformation practices. In-person and Live Online (remote) options are available.
