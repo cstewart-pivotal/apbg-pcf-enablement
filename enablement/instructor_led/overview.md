@@ -39,6 +39,8 @@ _You will also learn the fundamentals of Pivotal Cloud Foundry, CI/CD, Applicati
 
 This course is offered for both Java and .NET Developers.
 
+The Java CND course  has a corresponding certification associated with it, *Pivotal Certified Developer*. 
+
 [Training Brief](../../resources/Cloud-Native-Developer-Java.pdf)
 
 #### PAL CNA Course

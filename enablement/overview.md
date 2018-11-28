@@ -20,7 +20,7 @@ The topics covered:
     - BOSH Overview
     - Platform and Application DevOps & CI/CD
 
-The recordings of these sessions are available in [myLearning](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=activitySupDetails.sessionDetails&activityID=1521458&source=LMS&refresh=349) where the repository for all of the recorded sessions exist. 
+The recordings of these sessions are available in [myLearning](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=activitySupDetails.sessionDetails&activityID=1521458&source=LMS&refresh=349) where the repository for all of the recorded sessions exist.
 
 ### Curated, self-paced content for Cloud-Native Developers
   - [101](developer/101.md)
@@ -34,6 +34,8 @@ These light-weight workshops are half to full day workshops that are ideally del
 [Available Workshops and Agendas](workshops/overview.md)
 
 ### Pivotal Instructor-led Trainings
-Pivotal offers a number of instructor-led courses covering Spring, PCF and BOSH. In addition, there is the Platform Acceleration Lab (PAL) that is an intensive 1 or 3 week program teaching the methodologies and best-practices for cloud-native software development and application transformation practices. In-person and Live Online (remote) options are available.
+Pivotal offers a number of instructor-led courses covering Spring, PCF and BOSH.  In-person and Live Online (remote) options are available.
+
+In addition, the Platform Acceleration Lab (PAL) is an immersive, best practices set of courses that enables developers and architects to develop new applications, move applications (replatforming), and modernize existing applications on Pivotal Cloud Foundry.
 
 [Instructor-Led Offerings](instructor_led/overview.md)
