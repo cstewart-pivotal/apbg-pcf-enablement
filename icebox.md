@@ -7,10 +7,16 @@ This is a quantitative framework of indicators that gauges how well an organizat
 - App Tx
 
 ---
-### Application Transformation (App Tx)
+### Application Transformation (App Tx) Methodologies
 Start here:
 First learn about how Pivotal thinks about and delivers App Tx. Start with Matt Russell's [9/5/18 App Tx Webinar Recording](https://content.pivotal.io/webinars/sep-5-application-migration-how-to-start-scale-and-succeed-webinar)
 
 Follow up with the comprehensive [Whitepaper](https://content.pivotal.io/white-papers/pivotal-practices-application-transformation)
 
 [Tools to Slay the Fire Breathing Monoliths in Your Enterprise](https://www.youtube.com/watch?v=neL3OQ1GRhY)
+
+
+---
+### Pivotal Labs Methodologies
+
+- Read "[XP Explained](https://www.safaribooksonline.com/library/view/extreme-programming-explained/0321278658/)" by Kent Beck 
