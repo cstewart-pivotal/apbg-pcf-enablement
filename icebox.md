@@ -19,6 +19,8 @@ Follow up with the comprehensive [Whitepaper](https://content.pivotal.io/white-p
 
 [Book List](https://docs.google.com/document/d/1C624CCgSOlkzO4LqjypKKHbDairL1D4uGBfhXT1mjvA/edit?copiedFromTrash#heading=h.r5o2tddcboi) for App Tx Engineers
 
+Read ["Working Effectively with Legacy Code"](https://www.safaribooksonline.com/library/view/working-effectively-with/0131177052/)
+
 --
 ### Pivotal Labs Methodologies
 
