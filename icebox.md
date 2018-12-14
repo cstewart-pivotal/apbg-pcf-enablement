@@ -21,7 +21,7 @@ Follow up with the comprehensive [Whitepaper](https://content.pivotal.io/white-p
 
 Read ["Working Effectively with Legacy Code"](https://www.safaribooksonline.com/library/view/working-effectively-with/0131177052/)
 
---
+---
 ### Pivotal Labs Methodologies
 
 - Read "[XP Explained](https://www.safaribooksonline.com/library/view/extreme-programming-explained/0321278658/)" by Kent Beck
@@ -30,7 +30,7 @@ Watch ["I've Pair Programmed for 30,000 Hours: Ask Me Anything!"](https://www.yo
 
 [Book List](https://docs.google.com/document/d/1NboBJZy6Ny5W1JsdVlLtrLXDDDcM8sHfuovc9h-BtEo/edit#heading=h.r5o2tddcboi) for Labs Developers
 
-===
+---
 
 ## Security, Patching and PCF Operations
 
@@ -39,8 +39,8 @@ Watch ["I've Pair Programmed for 30,000 Hours: Ask Me Anything!"](https://www.yo
 [Wells Fargo: Securing Pivotal Cloud Foundry by Regularly Rebuilding](https://content.pivotal.io/springone-platform-2018/securing-pivotal-cloud-foundry-by-regularly-rebuilding)
 
 Read the Pivotal blogpost "[How to Apply the Meltdown Fix to All Your Systems in Less than a Day](https://content.pivotal.io/blog/how-to-apply-the-meltdown-fix-to-all-your-systems-in-less-than-a-day)"
-> _"With stemcells, you can upgrade every VM’s operating system in hours, with nearly no risk of downtime or other impact."
+> _"With stemcells, you can upgrade every VM’s operating system in hours, with nearly no risk of downtime or other impact."_
 
-===
+--- 
 
 ## 5 S's
