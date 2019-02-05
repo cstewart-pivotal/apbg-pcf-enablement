@@ -41,6 +41,29 @@ Watch ["I've Pair Programmed for 30,000 Hours: Ask Me Anything!"](https://www.yo
 Read the Pivotal blogpost "[How to Apply the Meltdown Fix to All Your Systems in Less than a Day](https://content.pivotal.io/blog/how-to-apply-the-meltdown-fix-to-all-your-systems-in-less-than-a-day)"
 > _"With stemcells, you can upgrade every VM’s operating system in hours, with nearly no risk of downtime or other impact."_
 
+[Platform as a Product Whitepaper](https://content.pivotal.io/white-papers/pivotal-platform-solutions-why-you-should-treat-platform-as-a-product)
+
 ---
 
 ## 5 S's
+
+---
+
+## Spring Boot
+
+https://devclass.com/2018/12/20/netflix-tries-on-spring-boot-for-size-says-ill-take-it/
+
+---
+
+## Competitive
+
+PCF v OpenShift
+
+See the Gartner reports
+
+
+---
+
+## .Net
+
+[Modernizing .NET Applications](/resources/modernizing-net-applications.pdf)
